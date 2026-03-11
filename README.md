@@ -24,5 +24,6 @@ A multiplexer takes in a number of inputs, and puts out fewer outputs depending 
 In plain English describe the function and use of a demultiplexer.
 
 A demultiplexer takes in a number of inputs, and puts out more outputs depending on the value of the select inputs.
+
 What other uses might these circuits have? (Think Shannon’s)
 This has other uses being able to reduce the number of gates with being able to use Shannons expansion, this helps with making the most implemented design, with being cost affective.
