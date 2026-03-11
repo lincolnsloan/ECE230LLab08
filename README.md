@@ -21,8 +21,8 @@ We used a Basys3 board to test a mulitplexer and a demulitplexer. We were able t
 In plain English describe the function and use of a multiplexer.
 
 A multiplexer takes in a number of inputs, and puts out fewer outputs depending on the value of the select inputs.
-In plain English describe the function and use of a demultiplexer.
 
+In plain English describe the function and use of a demultiplexer.  
 A demultiplexer takes in a number of inputs, and puts out more outputs depending on the value of the select inputs.
 
 What other uses might these circuits have? (Think Shannon’s)
